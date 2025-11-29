@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roopsingh-ji-maharaj-history-nqjw.vercel.app/sitemap.xml
